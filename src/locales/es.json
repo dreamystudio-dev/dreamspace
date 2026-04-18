@@ -1,0 +1,61 @@
+{
+  "languages": {
+    "english": "Inglés",
+    "spanish": "Español"
+  },
+  "header": {
+    "sections": {
+      "home": "Inicio",
+      "profile": "Perfil",
+      "stack": "Tecnologías",
+      "projects": "Proyectos",
+      "contact": "Contacto"
+    }
+  },
+  "hero": {
+    "role": "Programador de Videojuegos y Desarrollador Web",
+    "resume": "Currículum"
+  },
+  "profile": {
+    "heading": "Perfil",
+    "description": "Soy un desarrollador apasionado por la intersección entre la tecnología y la creatividad. Mi camino profesional está impulsado por una misión clara: crear experiencias digitales que se sientan vivas. Mi enfoque principal es el Desarrollo de Videojuegos, donde me dedico a diseñar mecánicas envolventes y sistemas lógicos que desafíen y emocionen al jugador. Entiendo el juego como la máxima expresión de la interactividad, y aplico ese rigor técnico y creativo en cada proyecto que emprendo. Paralelamente, he consolidado una sólida carrera en el Desarrollo Web, especializándome profundamente en el ecosistema Frontend. Mi experiencia me permite construir interfaces de usuario que no solo son estéticamente impecables, sino también optimizadas, accesibles y altamente funcionales. Aunque mi mayor fortaleza reside en el desarrollo de la capa visual y la experiencia del usuario (UX), poseo los conocimientos necesarios en Backend para comprender el ciclo de vida completo de una aplicación, gestionar bases de datos y asegurar una integración fluida entre el servidor y el cliente."
+  },
+  "technologies": {
+    "heading": "Tecnologías",
+    "categories": {
+      "game_engines": "Motores de Videojuegos",
+      "programming_languages": "Lenguajes de Programación",
+      "frontend_frameworks": "Frameworks de Frontend",
+      "design_tools": "Herramientas de Diseño"
+    }
+  },
+  "projects": {
+    "heading": "Proyectos",
+    "search_placeholder": "Buscar proyectos...",
+    "source": "Código",
+    "download": "Descargar",
+    "no_results": "No hay resultados",
+    "list": {
+      "dark_forest": {
+        "description": "Dark Forest es un juego de terror en 3D desarrollado con Unity que te sumerge en una atmósfera inquietante y realista. Lo que comienza como una simple acampada en un bosque remoto se convierte en una pesadilla cuando sucesos extraños alteran la calma y despiertan una presencia inexplicable."
+      }
+    }
+  },
+  "contact": {
+    "heading": "Contacto",
+    "social": "Redes",
+    "form": {
+      "heading": "Correo de Contacto",
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar"
+    }
+  },
+  "footer": {
+    "copyright": "DreamSpace © 2026. Todos los derechos reservados.",
+    "developed_by": "Desarrollado por",
+    "built_with": "Construido con",
+    "icons_provided_by": "Iconos proporcionados por"
+  }
+}

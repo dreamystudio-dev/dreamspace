@@ -1,0 +1,61 @@
+{
+  "languages": {
+    "english": "English",
+    "spanish": "Spanish"
+  },
+  "header": {
+    "sections": {
+      "home": "Home",
+      "profile": "Profile",
+      "stack": "Stack",
+      "projects": "Projects",
+      "contact": "Contact"
+    }
+  },
+  "hero": {
+    "role": "Game Programmer & Web Developer",
+    "resume": "Resume"
+  },
+  "profile": {
+    "heading": "Profile",
+    "description": "I'm a developer passionate about the intersection of technology and creativity. My professional path is driven by a clear mission: to create digital experiences that feel alive. My primary focus is Game Development, where I dedicate myself to designing immersive mechanics and logical systems that challenge and excite the player. I see gaming as the ultimate expression of interactivity, and I apply that same technical and creative rigor to every project I undertake. In parallel, I have built a solid career in Web Development, specializing deeply in the Frontend ecosystem. My experience allows me to build user interfaces that are not only aesthetically flawless but also optimized, accessible, and highly functional. Although my greatest strength lies in visual layer development and User Experience (UX), I possess the necessary Backend knowledge to understand the full application lifecycle, manage databases, and ensure seamless integration between server and client."
+  },
+  "technologies": {
+    "heading": "Stack",
+    "categories": {
+      "game_engines": "Game Engines",
+      "programming_languages": "Programming Languages",
+      "frontend_frameworks": "Frontend Frameworks",
+      "design_tools": "Design Tools"
+    }
+  },
+  "projects": {
+    "heading": "Projects",
+    "search_placeholder": "Search projects...",
+    "source": "Source",
+    "download": "Download",
+    "no_results": "No results found",
+    "list": {
+      "dark_forest": {
+        "description": "Dark Forest is a 3D horror game developed with Unity that immerses you in a disturbing and realistic atmosphere. What begins as a simple camping trip in a remote forest turns into a nightmare when strange events shatter the calm and awaken an inexplicable presence."
+      }
+    }
+  },
+  "contact": {
+    "heading": "Contact",
+    "social": "Social",
+    "form": {
+      "heading": "Email Contact",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    }
+  },
+  "footer": {
+    "copyright": "DreamSpace © 2026. All rights reserved.",
+    "developed_by": "Developed by",
+    "built_with": "Built with",
+    "icons_provided_by": "Icons provided by"
+  }
+}

@@ -1,0 +1,79 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Quicksand';
+  src: url('@/assets/fonts/Quicksand-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CalSans';
+  src: url('@/assets/fonts/CalSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aldrich';
+  src: url('@/assets/fonts/Aldrich-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-body: 'Quicksand';
+  --font-heading: 'CalSans';
+  --font-hero: 'Aldrich';
+
+  --color-rosewater: #f5e0dc;
+  --color-flamingo: #f2cdcd;
+  --color-pink: #f5c2e7;
+  --color-mauve: #cba6f7;
+  --color-red: #f38ba8;
+  --color-maroon: #eba0ac;
+  --color-peach: #fab387;
+  --color-yellow: #f9e2af;
+  --color-green: #a6e3a1;
+  --color-teal: #94e2d5;
+  --color-sky: #89dceb;
+  --color-sapphire: #74c7ec;
+  --color-blue: #89b4fa;
+  --color-lavender: #b4befe;
+
+  --color-default: #cdd6f4;
+  --color-subtext: #a6adc8;
+
+  --color-primary: #1e1e2e;
+  --color-secondary: #181825;
+  --color-tertiary: #11111b;
+}
+
+@layer base {
+  * {
+    user-select: none;
+  }
+
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: var(--font-body), monospace;
+    /*background-color: var(--color-tertiary);*/
+    color: var(--color-default);
+  }
+
+  #smooth-wrapper {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+
+  #smooth-content {
+    min-height: 100%;
+  }
+}
